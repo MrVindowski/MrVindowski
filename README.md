@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrVindowski
+- 👋 Hi, I’m @MrVindowski :D
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning other stuff
 - 💞️ I’m looking to collaborate on not stuff
