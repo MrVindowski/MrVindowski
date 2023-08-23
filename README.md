@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning other stuff
 - 💞️ I’m looking to collaborate on not stuff
 - 📫 How to reach me ... oh you don't... i guess
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrVindowski&show_icons=true&theme=highcontrast
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrVindowski&show_icons=true&theme=highcontrast)
 
 
 <!---
