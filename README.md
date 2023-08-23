@@ -2,7 +2,7 @@
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning other stuff
 - 💞️ I’m looking to collaborate on not stuff
-- 📫 How to reach me ... oh you don't
+- 📫 How to reach me ... oh you don't... i guess
 
 <!---
 MrVindowski/MrVindowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
