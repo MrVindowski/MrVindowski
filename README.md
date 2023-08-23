@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on not stuff
 - 📫 How to reach me ... oh you don't... i guess
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrVindowski&show_icons=true&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=totalIssues,prs)
+
 
 <!---
 MrVindowski/MrVindowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
