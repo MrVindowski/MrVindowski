@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrVindowski :D
 - 👀 I’m interested in music and computers
-- 🌱 I’m currently learning how to use github and how to arrange and compose music
+- 🌱 I’m currently learning how to front-end and how to arrange and compose music
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me ... oh you don't... i guess
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrVindowski&show_icons=true&theme=highcontrast)
